@@ -1,0 +1,10 @@
+node_modules/
+coverage/
+readme/
+.idea
+build
+!.jestrc.js
+__mocks__/
+src/serviceWorker.js
+
+ShowMoreButton

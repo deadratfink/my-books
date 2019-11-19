@@ -1,28 +1,3 @@
-# react-coding-challange (v1.0.0)
-
-A personal book administration application.
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## TOC
-
-- [Introduction](#introduction)
-- [Prerequisites](#prerequisites)
-  - [1. Install Node.js](#1-install-nodejs)
-  - [2. Install Brew](#2-install-brew)
-  - [3. Install Yarn](#3-install-yarn)
-  - [4. Install Dependencies](#4-install-dependencies)
-- [Start Application](#start-application)
-- [Development](#development)
-  - [Development Server Usage](#development-server-usage)
-  - [Run the Linter](#run-the-linter)
-  - [Execute Tests](#execute-tests)
-  - [Create Readme](#create-readme)
-- [Further information](#further-information)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-
 ## Introduction
 
 This repository provides a small personal book adminstration application which provides the books in some
@@ -112,17 +87,3 @@ $ make test
 ```text
 $ make readme
 ```
-
-
-## Further information
-
-- [Module Details](./PACKAGE.md)
-
-- [Api Reference](./API.md)
-
-- [Makefile Reference](./MAKE.md)
-
-- [Changelog](./CHANGELOG.md)
-
-- [License](./LICENSE.md)
-
