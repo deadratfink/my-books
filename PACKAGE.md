@@ -1,6 +1,6 @@
-# react-coding-challange
+# my-books
 
-A personal book administration application.
+A personal book administration web application.
 
 
 ## Tests
@@ -34,7 +34,7 @@ npm test
 - [@babel/preset-env](https://ghub.io/@babel/preset-env): A Babel preset for each environment.
 - [@babel/preset-react](https://ghub.io/@babel/preset-react): Babel preset for all React plugins.
 - [@storybook/addon-actions](https://ghub.io/@storybook/addon-actions): Action Logger addon for storybook
-- [@storybook/addon-console](https://ghub.io/@storybook/addon-console): A personal book administration application.
+- [@storybook/addon-console](https://ghub.io/@storybook/addon-console): A personal book administration web application.
 - [@storybook/addon-links](https://ghub.io/@storybook/addon-links): Story Links addon for storybook
 - [@storybook/addons](https://ghub.io/@storybook/addons): Storybook addons store
 - [@storybook/react](https://ghub.io/@storybook/react): Storybook for React: Develop React Component in isolation with Hot Reloading.

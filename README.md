@@ -1,6 +1,6 @@
-# react-coding-challange (v1.0.0)
+# my-books (v1.0.0)
 
-A personal book administration application.
+A personal book administration web application.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
